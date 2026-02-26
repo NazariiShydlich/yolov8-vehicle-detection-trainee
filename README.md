@@ -1,0 +1,1 @@
+# yolov8-vehicle-detection-trainee
